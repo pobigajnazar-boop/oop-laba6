@@ -1,0 +1,15 @@
+C:\Users\Pobig\RiderProjects\oop_lab6\oop_lab6\bin\Debug\net10.0\oop_lab6.exe
+C:\Users\Pobig\RiderProjects\oop_lab6\oop_lab6\bin\Debug\net10.0\oop_lab6.deps.json
+C:\Users\Pobig\RiderProjects\oop_lab6\oop_lab6\bin\Debug\net10.0\oop_lab6.runtimeconfig.json
+C:\Users\Pobig\RiderProjects\oop_lab6\oop_lab6\bin\Debug\net10.0\oop_lab6.dll
+C:\Users\Pobig\RiderProjects\oop_lab6\oop_lab6\bin\Debug\net10.0\oop_lab6.pdb
+C:\Users\Pobig\RiderProjects\oop_lab6\oop_lab6\obj\Debug\net10.0\oop_lab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pobig\RiderProjects\oop_lab6\oop_lab6\obj\Debug\net10.0\oop_lab6.AssemblyInfoInputs.cache
+C:\Users\Pobig\RiderProjects\oop_lab6\oop_lab6\obj\Debug\net10.0\oop_lab6.AssemblyInfo.cs
+C:\Users\Pobig\RiderProjects\oop_lab6\oop_lab6\obj\Debug\net10.0\oop_lab6.csproj.CoreCompileInputs.cache
+C:\Users\Pobig\RiderProjects\oop_lab6\oop_lab6\obj\Debug\net10.0\oop_lab6.sourcelink.json
+C:\Users\Pobig\RiderProjects\oop_lab6\oop_lab6\obj\Debug\net10.0\oop_lab6.dll
+C:\Users\Pobig\RiderProjects\oop_lab6\oop_lab6\obj\Debug\net10.0\refint\oop_lab6.dll
+C:\Users\Pobig\RiderProjects\oop_lab6\oop_lab6\obj\Debug\net10.0\oop_lab6.pdb
+C:\Users\Pobig\RiderProjects\oop_lab6\oop_lab6\obj\Debug\net10.0\oop_lab6.genruntimeconfig.cache
+C:\Users\Pobig\RiderProjects\oop_lab6\oop_lab6\obj\Debug\net10.0\ref\oop_lab6.dll
