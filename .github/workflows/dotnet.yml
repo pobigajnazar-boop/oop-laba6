@@ -1,0 +1,29 @@
+name: .NET CI
+
+on:
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Отримання коду
+      uses: actions/checkout@v4
+
+    - name: Встановлення .NET
+      uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: '10.0.x'
+
+    - name: Відновлення залежностей
+      run: dotnet restore TestProject6/TestProject6.csproj
+
+    - name: Збірка проєкту (Build)
+      run: dotnet build TestProject6/TestProject6.csproj --no-restore
+
+    - name: Запуск тестів (Test)
+      run: dotnet test TestProject6/TestProject6.csproj --no-build --verbosity normal
